@@ -2,7 +2,7 @@
   "name": "profile-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/richardrun/profile-web",
+  "homepage": "https://richardrun.github.io/profile-web",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
